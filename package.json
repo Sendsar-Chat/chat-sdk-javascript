@@ -1,0 +1,36 @@
+{
+  "name": "@sendsar/chat-sdk-javascript",
+  "version": "0.2.0",
+  "description": "Chat SDK for JavaScript/Web — Sendsar client SDK",
+  "main": "Sendsar.js",
+  "types": "./Sendsar.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "sendsar",
+    "chat",
+    "messaging",
+    "sdk",
+    "javascript",
+    "web",
+    "react",
+    "vue",
+    "angular",
+    "voice",
+    "video",
+    "webrtc",
+    "realtime"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sendsar-Chat/sendsar-monorepo.git",
+    "directory": "packages/chat-sdk-javascript"
+  },
+  "bugs": {
+    "url": "https://github.com/Sendsar-Chat/sendsar-monorepo/issues"
+  },
+  "homepage": "https://github.com/Sendsar-Chat/chat-sdk-javascript#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
